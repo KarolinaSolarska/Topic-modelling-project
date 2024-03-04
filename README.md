@@ -1,1 +1,3 @@
 # Topic-modelling-project
+
+This project embarks on a comprehensive text mining and topic modeling journey to unravel the underlying sentiments and themes in the song lyrics of Taylor Swift. Taylor Swift, a renowned singer-songwriter, has captured hearts worldwide with her evocative lyrics, often reflecting personal experiences and universal emotions. Through advanced natural language processing techniques, this study aims to dissect her lyrics across various albums, extracting key themes and sentiment trends. The project leverages tools like NLTK for preprocessing, Gensim for topic modeling, and BERTopic for advanced theme extraction, offering insights into the emotional landscape and thematic richness of Swift's discography.
